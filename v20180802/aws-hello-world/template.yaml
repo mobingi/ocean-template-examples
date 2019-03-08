@@ -62,4 +62,3 @@ stacks:
   - type: t2.medium
     min: 3
     max: 10
-  skip: false
